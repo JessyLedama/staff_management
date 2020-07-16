@@ -10,7 +10,7 @@ A simple staff management system built on top of Laravel.
 - 4. Messaging of Staff
 - ETC.
 
-## MAKE Sure to look at the .env.example to see the list of simple configuration options to achieve more. 
+Peek into the .env.example file to see the list of simple configuration options to achieve more. 
 
 
 
