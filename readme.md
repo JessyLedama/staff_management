@@ -1,8 +1,8 @@
-# Staff Management System
+# STAFF MANAGEMENT SYSTEM
 
-This little buddy can help you manage your staff database! Built with :sparkling_heart: with Laravel
+A simple staff management system built on top of Laravel.
 
-#FEATURES
+# Features
 
 - 1 Staff management/ database
 - 2. Staff Leave Management
